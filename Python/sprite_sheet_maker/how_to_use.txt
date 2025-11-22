@@ -1,0 +1,7 @@
+put all your images into the same folder as <sprite_sheet_maker.py> is.
+name them from 0 to what ever the number of the last on is.
+duble click on the python file (sprite_sheet_maker.py).
+fill the wanted information.
+done.
+
+you can also check the Demo folder. 
