@@ -1,0 +1,14 @@
+This is a small Python script that reads an SRT subtitle file and outputs the total visible duration of all subtitle entries.
+
+prints the result in SRT-style timestamp format (HH:MM:SS,mmm — hours:minutes:seconds,milliseconds).
+
+Usage
+
+    Put the script and your .srt file in the same folder (or provide the full path to the SRT).
+    RUN:
+
+    python subtime.py <path/to/file.srt>
+
+Output:
+
+	Total visible time formatted as HH:MM:SS,mmm (e.g., 00:01:23,456)
